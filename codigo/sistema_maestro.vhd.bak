@@ -43,4 +43,3 @@ begin
     disp_ciclos <= decodificar_7seg(num_ciclos);
 
 end architecture;
---joder que rico--
